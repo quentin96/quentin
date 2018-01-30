@@ -1,0 +1,32 @@
+h1 {
+	color : red;
+   font-size: 30px;
+   font-family: 'Supermercado One', cursive;
+
+}
+
+div{
+	background-color: rgb(125,125,125);
+	text-align: center; 
+	margin-top: 70px;
+	margin-right: 130px;
+	margin-left: 130px; 
+	margin-bottom: 70px; 
+	border: solid 5px #4D8A88;
+	border-radius: 10px;
+	padding: 50px; 
+	box-shadow: 10px 10px 5px grey; 
+}
+body{
+	background-color: #FDB5B7
+	font-family: 'Sedgwick Ave', cursive;
+}
+p{
+	font-weight: bold;
+}
+#avatar {
+	width: 100px;
+}
+.network {
+	width: 50px;
+}
